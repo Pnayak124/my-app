@@ -1,7 +1,5 @@
 
 import './App.css';
-
-
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import HomeComponent from './HomeComponent';
 import VideoComponent from './VideoContent';

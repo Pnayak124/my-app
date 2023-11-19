@@ -6,7 +6,6 @@ const cname = props.cname;
 const link = props.link;
 const Dura = props.Dura;
 
-
 return(
     <div class="video11">
     <div id="videe">

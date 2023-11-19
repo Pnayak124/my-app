@@ -7,6 +7,7 @@ const link = props.link;
 const Dura = props.Dura;
 const cimg = props.cimg;
 const id = props.id;
+
 return (
         <div className="video1">
             <a href={"/vedioPage/"+id}>

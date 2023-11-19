@@ -6,8 +6,6 @@ import YUT_PG from "./yout logo.png";
 import Videos from "./video.json";
 
 
-
-
 function HomeComponent() {
     const isloggedId = localStorage.getItem("LoggedIn")
     function onLogout(){

@@ -12,7 +12,6 @@ function loginComponent() {
         }else{
             alert("Email or password wrong")
         }
-   
     }
     
     return (
